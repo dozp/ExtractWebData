@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.8.3.jar" sourcepath="C:/Users/IBM_ADMIN/Downloads/jsoup-1.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar" sourcepath="C:/Users/IBM_ADMIN/java_workspace/ExtractWebData/lib/json-lib-2.4-jdk15-sources.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
